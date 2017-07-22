@@ -1,0 +1,3 @@
+[submodule "Atari - Lynx"]
+	path = Atari - Lynx
+	url = https://github.com/libretro-thumbnails/Atari_-_Lynx.git
