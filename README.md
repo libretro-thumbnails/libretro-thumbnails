@@ -24,7 +24,7 @@ You can also bring the latest changes from all submodules down by using:
 make update
 ```
 
-## Contributing
+## Usage
 
 - Thumbnails are installed into RetroArch config's `thumbnails` directory
 - There are three types of thumbnails:
