@@ -20,7 +20,7 @@
 	path = Fairchild - Channel F
 	url = https://github.com/libretro-thumbnails/Fairchild_-_Channel_F.git
 [submodule "FB_Alpha - Arcade Games"]
-	path = FB_Alpha - Arcade Games
+	path = FB Alpha - Arcade Games
 	url = https://github.com/libretro-thumbnails/FB_Alpha_-_Arcade_Games.git
 [submodule "Epoch - Super Cassette Vision"]
 	path = Epoch - Super Cassette Vision
