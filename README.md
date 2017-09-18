@@ -1,13 +1,14 @@
 # libretro-thumbnails
 
-Thumbnails for [RetroArch](http://retroarch.com).
+Thumbnails for [RetroArch](http://retroarch.com), split into individual repositories to ease maintenance.
 
 ## Install
 
-Check out the repository, with all submodules:
+Check out the repository, with all submodules, into RetroArch's thumbnails directory:
 
 ```
-git clone --recursive http://github.com/libretro-thumbnails/libretro-thumbnails.git
+cd ~/.config/retroarch
+git clone --recursive http://github.com/libretro-thumbnails/libretro-thumbnails.git thumbnails
 ```
 
 ## Update
