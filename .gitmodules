@@ -2,7 +2,7 @@
 	path = Atari - Lynx
 	url = https://github.com/libretro-thumbnails/Atari_-_Lynx.git
 [submodule "Hartung - Game_Master"]
-	path = Hartung - Game_Master
+	path = Hartung - Game Master
 	url = https://github.com/libretro-thumbnails/Hartung_-_Game_Master.git
 [submodule "Handheld Electronic Game"]
 	path = Handheld Electronic Game
