@@ -16,6 +16,7 @@ To bring in the latest thumbnails across all systems, use:
 
 ```
 git pull
+git submodule update --init
 ```
 
 You can also bring the latest changes from all submodules down by using:
