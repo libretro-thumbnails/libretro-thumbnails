@@ -265,3 +265,6 @@
 [submodule "Watara - Supervision"]
 	path = Watara - Supervision
 	url = https://github.com/libretro-thumbnails/Watara_-_Supervision.git
+[submodule "ChaiLove"]
+	path = ChaiLove
+	url = https://github.com/libretro-thumbnails/ChaiLove.git
