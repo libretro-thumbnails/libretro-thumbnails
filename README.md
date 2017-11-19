@@ -8,7 +8,7 @@ Check out the repository, with all submodules, into RetroArch's thumbnails direc
 
 ```
 cd ~/.config/retroarch
-git clone --recursive http://github.com/libretro-thumbnails/libretro-thumbnails.git thumbnails
+git clone --recursive --depth=1 http://github.com/libretro-thumbnails/libretro-thumbnails.git thumbnails
 ```
 
 ## Update
