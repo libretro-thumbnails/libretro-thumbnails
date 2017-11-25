@@ -271,3 +271,6 @@
 [submodule "Rick Dangerous"]
 	path = Rick Dangerous
 	url = https://github.com/libretro-thumbnails/Rick_Dangerous.git
+[submodule "RPG Maker"]
+	path = RPG Maker
+	url = git@github.com:libretro-thumbnails/RPG_Maker.git
