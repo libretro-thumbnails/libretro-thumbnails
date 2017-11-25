@@ -271,9 +271,6 @@
 [submodule "Rick Dangerous"]
 	path = Rick Dangerous
 	url = https://github.com/libretro-thumbnails/Rick_Dangerous.git
-[submodule "RPG Maker"]
-	path = RPG Maker
-	url = git@github.com:libretro-thumbnails/RPG_Maker.git
 [submodule "LeapFrog - Leapster Learning Game System"]
 	path = LeapFrog - Leapster Learning Game System
 	url = https://github.com/libretro-thumbnails/LeapFrog_-_Leapster_Learning_Game_System.git
