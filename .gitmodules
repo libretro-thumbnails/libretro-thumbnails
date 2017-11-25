@@ -268,3 +268,6 @@
 [submodule "ChaiLove"]
 	path = ChaiLove
 	url = https://github.com/libretro-thumbnails/ChaiLove.git
+[submodule "Rick Dangerous"]
+	path = Rick Dangerous
+	url = https://github.com/libretro-thumbnails/Rick_Dangerous.git
