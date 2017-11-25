@@ -25,7 +25,7 @@ update: all
 
 # Build thumbnails .zip packs for all systems.
 packs: index packs-dir packs-index | all
-	git submodule foreach 'git archive --format zip -9 --output "../$(PACKSDIR)/$$name.zip" master'
+	git submodule foreach 'git archive --format zip --prefix="$$name/" -9 --output "../$(PACKSDIR)/$$name.zip" master'
 
 # Clean all the files.
 clean: clean-index clean-packs clean-packs-index
