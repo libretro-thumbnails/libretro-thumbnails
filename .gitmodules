@@ -277,3 +277,6 @@
 [submodule "RPG Maker"]
 	path = RPG Maker
 	url = https://github.com/libretro-thumbnails/RPG_Maker.git
+[submodule "Nintendo - Nintendo 3DS (DLC)"]
+	path = Nintendo - Nintendo 3DS (DLC)
+	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS_DLC.git
