@@ -251,7 +251,7 @@
 	path = The 3DO Company - 3DO
 	url = https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO.git
 [submodule "Tiger - Game"]
-	path = Tiger - Game
+	path = Tiger - Game.com
 	url = https://github.com/libretro-thumbnails/Tiger_-_Game.com.git
 [submodule "Tomb Raider"]
 	path = Tomb Raider
