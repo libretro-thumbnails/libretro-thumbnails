@@ -1,7 +1,7 @@
 [submodule "Atari - Lynx"]
 	path = Atari - Lynx
 	url = https://github.com/libretro-thumbnails/Atari_-_Lynx.git
-[submodule "Hartung - Game_Master"]
+[submodule "Hartung - Game Master"]
 	path = Hartung - Game Master
 	url = https://github.com/libretro-thumbnails/Hartung_-_Game_Master.git
 [submodule "Handheld Electronic Game"]
@@ -19,7 +19,7 @@
 [submodule "Fairchild - Channel F"]
 	path = Fairchild - Channel F
 	url = https://github.com/libretro-thumbnails/Fairchild_-_Channel_F.git
-[submodule "FB_Alpha - Arcade Games"]
+[submodule "FB Alpha - Arcade Games"]
 	path = FB Alpha - Arcade Games
 	url = https://github.com/libretro-thumbnails/FB_Alpha_-_Arcade_Games.git
 [submodule "Epoch - Super Cassette Vision"]
@@ -250,7 +250,7 @@
 [submodule "The 3DO Company - 3DO"]
 	path = The 3DO Company - 3DO
 	url = https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO.git
-[submodule "Tiger - Game"]
+[submodule "Tiger - Game.com"]
 	path = Tiger - Game.com
 	url = https://github.com/libretro-thumbnails/Tiger_-_Game.com.git
 [submodule "Tomb Raider"]
