@@ -21,11 +21,11 @@ install: all
 
 # Bring down the latest unstable thumbnails.
 update: all
-	git submodule foreach git pull origin master
+	git submodule update --recursive --remote
 
 # Build thumbnails .zip packs for all systems.
-packs: index packs-dir packs-index | all
-	git submodule foreach 'git archive --format zip --prefix="$$name/" -9 --output "../$(PACKSDIR)/$$name.zip" master'
+packs: index packs-dir packs-index | update
+	git submodule foreach 'git archive HEAD --format zip --prefix="$$name/" -9 --output "../$(PACKSDIR)/$$name.zip"'
 
 # Clean all the files.
 clean: clean-index clean-packs clean-packs-index
