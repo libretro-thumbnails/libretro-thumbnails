@@ -24,7 +24,7 @@ update: all
 	git submodule update --recursive --remote
 
 # Build thumbnails .zip packs for all systems.
-packs: index packs-dir packs-index | update
+packs: index packs-index | update
 	git submodule foreach 'git archive HEAD --format zip --prefix="$$name/" -9 --output "../$(PACKSDIR)/$$name.zip"'
 
 # Clean all the files.
