@@ -1,282 +1,376 @@
 [submodule "Atari - Lynx"]
 	path = Atari - Lynx
 	url = https://github.com/libretro-thumbnails/Atari_-_Lynx.git
+	branch = master
 [submodule "Hartung - Game Master"]
 	path = Hartung - Game Master
 	url = https://github.com/libretro-thumbnails/Hartung_-_Game_Master.git
+	branch = master
 [submodule "Handheld Electronic Game"]
 	path = Handheld Electronic Game
 	url = https://github.com/libretro-thumbnails/Handheld_Electronic_Game.git
+	branch = master
 [submodule "GamePark - GP32"]
 	path = GamePark - GP32
 	url = https://github.com/libretro-thumbnails/GamePark_-_GP32.git
+	branch = master
 [submodule "GCE - Vectrex"]
 	path = GCE - Vectrex
 	url = https://github.com/libretro-thumbnails/GCE_-_Vectrex.git
+	branch = master
 [submodule "Funtech - Super Acan"]
 	path = Funtech - Super Acan
 	url = https://github.com/libretro-thumbnails/Funtech_-_Super_Acan.git
+	branch = master
 [submodule "Fairchild - Channel F"]
 	path = Fairchild - Channel F
 	url = https://github.com/libretro-thumbnails/Fairchild_-_Channel_F.git
+	branch = master
 [submodule "FB Alpha - Arcade Games"]
 	path = FB Alpha - Arcade Games
 	url = https://github.com/libretro-thumbnails/FB_Alpha_-_Arcade_Games.git
+	branch = master
 [submodule "Epoch - Super Cassette Vision"]
 	path = Epoch - Super Cassette Vision
 	url = https://github.com/libretro-thumbnails/Epoch_-_Super_Cassette_Vision.git
+	branch = master
 [submodule "Entex - Adventure Vision"]
 	path = Entex - Adventure Vision
 	url = https://github.com/libretro-thumbnails/Entex_-_Adventure_Vision.git
+	branch = master
 [submodule "Emerson - Arcadia 2001"]
 	path = Emerson - Arcadia 2001
 	url = https://github.com/libretro-thumbnails/Emerson_-_Arcadia_2001.git
+	branch = master
 [submodule "Dinothawr"]
 	path = Dinothawr
 	url = https://github.com/libretro-thumbnails/Dinothawr.git
+	branch = master
 [submodule "DOS"]
 	path = DOS
 	url = https://github.com/libretro-thumbnails/DOS.git
+	branch = master
 [submodule "DOOM"]
 	path = DOOM
 	url = https://github.com/libretro-thumbnails/DOOM.git
+	branch = master
 [submodule "Commodore - VIC-20"]
 	path = Commodore - VIC-20
 	url = https://github.com/libretro-thumbnails/Commodore_-_VIC-20.git
+	branch = master
 [submodule "Commodore - Plus-4"]
 	path = Commodore - Plus-4
 	url = https://github.com/libretro-thumbnails/Commodore_-_Plus-4.git
+	branch = master
 [submodule "Commodore - 64"]
 	path = Commodore - 64
 	url = https://github.com/libretro-thumbnails/Commodore_-_64.git
+	branch = master
 [submodule "Coleco - ColecoVision"]
 	path = Coleco - ColecoVision
 	url = https://github.com/libretro-thumbnails/Coleco_-_ColecoVision.git
+	branch = master
 [submodule "Cave Story"]
 	path = Cave Story
 	url = https://github.com/libretro-thumbnails/Cave_Story.git
+	branch = master
 [submodule "Casio - PV-1000"]
 	path = Casio - PV-1000
 	url = https://github.com/libretro-thumbnails/Casio_-_PV-1000.git
+	branch = master
 [submodule "Casio - Loopy"]
 	path = Casio - Loopy
 	url = https://github.com/libretro-thumbnails/Casio_-_Loopy.git
+	branch = master
 [submodule "Bomberman Game Clone"]
 	path = Bomberman Game Clone
 	url = https://github.com/libretro-thumbnails/Bomberman_Game_Clone.git
+	branch = master
 [submodule "Bandai - WonderSwan"]
 	path = Bandai - WonderSwan
 	url = https://github.com/libretro-thumbnails/Bandai_-_WonderSwan.git
+	branch = master
 [submodule "Sega - PICO"]
 	path = Sega - PICO
 	url = https://github.com/libretro-thumbnails/Sega_-_PICO.git
+	branch = master
 [submodule "Sega - Mega-CD - Sega CD"]
 	path = Sega - Mega-CD - Sega CD
 	url = https://github.com/libretro-thumbnails/Sega_-_Mega-CD_-_Sega_CD.git
+	branch = master
 [submodule "Sega - Mega Drive - Genesis"]
 	path = Sega - Mega Drive - Genesis
 	url = https://github.com/libretro-thumbnails/Sega_-_Mega_Drive_-_Genesis.git
+	branch = master
 [submodule "Sega - Master System - Mark III"]
 	path = Sega - Master System - Mark III
 	url = https://github.com/libretro-thumbnails/Sega_-_Master_System_-_Mark_III.git
+	branch = master
 [submodule "Sega - Game Gear"]
 	path = Sega - Game Gear
 	url = https://github.com/libretro-thumbnails/Sega_-_Game_Gear.git
+	branch = master
 [submodule "Sega - Dreamcast"]
 	path = Sega - Dreamcast
 	url = https://github.com/libretro-thumbnails/Sega_-_Dreamcast.git
+	branch = master
 [submodule "Sega - 32X"]
 	path = Sega - 32X
 	url = https://github.com/libretro-thumbnails/Sega_-_32X.git
+	branch = master
 [submodule "ScummVM"]
 	path = ScummVM
 	url = https://github.com/libretro-thumbnails/ScummVM.git
+	branch = master
 [submodule "SNK - Neo Geo"]
 	path = SNK - Neo Geo
 	url = https://github.com/libretro-thumbnails/SNK_-_Neo_Geo.git
+	branch = master
 [submodule "SNK - Neo Geo Pocket"]
 	path = SNK - Neo Geo Pocket
 	url = https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket.git
+	branch = master
 [submodule "SNK - Neo Geo Pocket Color"]
 	path = SNK - Neo Geo Pocket Color
 	url = https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_Pocket_Color.git
+	branch = master
 [submodule "SNK - Neo Geo CD"]
 	path = SNK - Neo Geo CD
 	url = https://github.com/libretro-thumbnails/SNK_-_Neo_Geo_CD.git
+	branch = master
 [submodule "RCA - Studio II"]
 	path = RCA - Studio II
 	url = https://github.com/libretro-thumbnails/RCA_-_Studio_II.git
+	branch = master
 [submodule "Bandai - WonderSwan Color"]
 	path = Bandai - WonderSwan Color
 	url = https://github.com/libretro-thumbnails/Bandai_-_WonderSwan_Color.git
+	branch = master
 [submodule "Atari - 2600"]
 	path = Atari - 2600
 	url = https://github.com/libretro-thumbnails/Atari_-_2600.git
+	branch = master
 [submodule "Atari - 5200"]
 	path = Atari - 5200
 	url = https://github.com/libretro-thumbnails/Atari_-_5200.git
+	branch = master
 [submodule "Atari - 7800"]
 	path = Atari - 7800
 	url = https://github.com/libretro-thumbnails/Atari_-_7800.git
+	branch = master
 [submodule "Atari - Jaguar"]
 	path = Atari - Jaguar
 	url = https://github.com/libretro-thumbnails/Atari_-_Jaguar.git
+	branch = master
 [submodule "Atari - ST"]
 	path = Atari - ST
 	url = https://github.com/libretro-thumbnails/Atari_-_ST.git
+	branch = master
 [submodule "Lutro"]
 	path = Lutro
 	url = https://github.com/libretro-thumbnails/Lutro.git
+	branch = master
 [submodule "Magnavox - Odyssey2"]
 	path = Magnavox - Odyssey2
 	url = https://github.com/libretro-thumbnails/Magnavox_-_Odyssey2.git
+	branch = master
 [submodule "Microsoft - MSX"]
 	path = Microsoft - MSX
 	url = https://github.com/libretro-thumbnails/Microsoft_-_MSX.git
+	branch = master
 [submodule "Microsoft - MSX2"]
 	path = Microsoft - MSX2
 	url = https://github.com/libretro-thumbnails/Microsoft_-_MSX2.git
+	branch = master
 [submodule "Microsoft - Xbox"]
 	path = Microsoft - Xbox
 	url = https://github.com/libretro-thumbnails/Microsoft_-_Xbox.git
+	branch = master
 [submodule "Microsoft - Xbox 360"]
 	path = Microsoft - Xbox 360
 	url = https://github.com/libretro-thumbnails/Microsoft_-_Xbox_360.git
+	branch = master
 [submodule "NEC - PC Engine - TurboGrafx 16"]
 	path = NEC - PC Engine - TurboGrafx 16
 	url = https://github.com/libretro-thumbnails/NEC_-_PC_Engine_-_TurboGrafx_16.git
+	branch = master
 [submodule "NEC - PC Engine CD - TurboGrafx-CD"]
 	path = NEC - PC Engine CD - TurboGrafx-CD
 	url = https://github.com/libretro-thumbnails/NEC_-_PC_Engine_CD_-_TurboGrafx-CD.git
+	branch = master
 [submodule "NEC - PC Engine SuperGrafx"]
 	path = NEC - PC Engine SuperGrafx
 	url = https://github.com/libretro-thumbnails/NEC_-_PC_Engine_SuperGrafx.git
+	branch = master
 [submodule "NEC - PC-FX"]
 	path = NEC - PC-FX
 	url = https://github.com/libretro-thumbnails/NEC_-_PC-FX.git
+	branch = master
 [submodule "Nintendo - Family Computer Disk System"]
 	path = Nintendo - Family Computer Disk System
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Family_Computer_Disk_System.git
+	branch = master
 [submodule "Nintendo - Game Boy"]
 	path = Nintendo - Game Boy
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Game_Boy.git
+	branch = master
 [submodule "Nintendo - Game Boy Advance"]
 	path = Nintendo - Game Boy Advance
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance.git
+	branch = master
 [submodule "Nintendo - Game Boy Color"]
 	path = Nintendo - Game Boy Color
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Game_Boy_Color.git
+	branch = master
 [submodule "Nintendo - GameCube"]
 	path = Nintendo - GameCube
 	url = https://github.com/libretro-thumbnails/Nintendo_-_GameCube.git
+	branch = master
 [submodule "Nintendo - Nintendo 3DS"]
 	path = Nintendo - Nintendo 3DS
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS.git
+	branch = master
 [submodule "Nintendo - Nintendo 64"]
 	path = Nintendo - Nintendo 64
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64.git
+	branch = master
 [submodule "Nintendo - Nintendo 64DD"]
 	path = Nintendo - Nintendo 64DD
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64DD.git
+	branch = master
 [submodule "Nintendo - Nintendo DS"]
 	path = Nintendo - Nintendo DS
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DS.git
+	branch = master
 [submodule "Nintendo - Nintendo DSi"]
 	path = Nintendo - Nintendo DSi
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi.git
+	branch = master
 [submodule "Nintendo - Nintendo Entertainment System"]
 	path = Nintendo - Nintendo Entertainment System
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System.git
+	branch = master
 [submodule "Nintendo - Pokemon Mini"]
 	path = Nintendo - Pokemon Mini
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Pokemon_Mini.git
+	branch = master
 [submodule "Nintendo - Satellaview"]
 	path = Nintendo - Satellaview
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Satellaview.git
+	branch = master
 [submodule "Nintendo - Sufami Turbo"]
 	path = Nintendo - Sufami Turbo
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Sufami_Turbo.git
+	branch = master
 [submodule "Nintendo - Super Nintendo Entertainment System"]
 	path = Nintendo - Super Nintendo Entertainment System
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Super_Nintendo_Entertainment_System.git
+	branch = master
 [submodule "Nintendo - Virtual Boy"]
 	path = Nintendo - Virtual Boy
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Virtual_Boy.git
+	branch = master
 [submodule "Nintendo - Wii"]
 	path = Nintendo - Wii
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Wii.git
+	branch = master
 [submodule "Nintendo - Wii U"]
 	path = Nintendo - Wii U
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Wii_U.git
+	branch = master
 [submodule "Philips - Videopac+"]
 	path = Philips - Videopac+
 	url = https://github.com/libretro-thumbnails/Philips_-_Videopac.git
+	branch = master
 [submodule "Quake1"]
 	path = Quake1
 	url = https://github.com/libretro-thumbnails/Quake1.git
+	branch = master
 [submodule "Sega - Saturn"]
 	path = Sega - Saturn
 	url = https://github.com/libretro-thumbnails/Sega_-_Saturn.git
+	branch = master
 [submodule "Sega - SG-1000"]
 	path = Sega - SG-1000
 	url = https://github.com/libretro-thumbnails/Sega_-_SG-1000.git
+	branch = master
 [submodule "Sinclair - ZX 81"]
 	path = Sinclair - ZX 81
 	url = https://github.com/libretro-thumbnails/Sinclair_-_ZX_81.git
+	branch = master
 [submodule "Sinclair - ZX Spectrum"]
 	path = Sinclair - ZX Spectrum
 	url = https://github.com/libretro-thumbnails/Sinclair_-_ZX_Spectrum.git
+	branch = master
 [submodule "Sony - PlayStation"]
 	path = Sony - PlayStation
 	url = https://github.com/libretro-thumbnails/Sony_-_PlayStation.git
+	branch = master
 [submodule "Sony - PlayStation 2"]
 	path = Sony - PlayStation 2
 	url = https://github.com/libretro-thumbnails/Sony_-_PlayStation_2.git
+	branch = master
 [submodule "Sony - PlayStation 3"]
 	path = Sony - PlayStation 3
 	url = https://github.com/libretro-thumbnails/Sony_-_PlayStation_3.git
+	branch = master
 [submodule "Sony - PlayStation 3 (Downloadable)"]
 	path = Sony - PlayStation 3 (Downloadable)
 	url = https://github.com/libretro-thumbnails/Sony_-_PlayStation_3_Downloadable.git
+	branch = master
 [submodule "Sony - PlayStation 4"]
 	path = Sony - PlayStation 4
 	url = https://github.com/libretro-thumbnails/Sony_-_PlayStation_4.git
+	branch = master
 [submodule "Sony - PlayStation Portable"]
 	path = Sony - PlayStation Portable
 	url = https://github.com/libretro-thumbnails/Sony_-_PlayStation_Portable.git
+	branch = master
 [submodule "Sony - PlayStation Vita"]
 	path = Sony - PlayStation Vita
 	url = https://github.com/libretro-thumbnails/Sony_-_PlayStation_Vita.git
+	branch = master
 [submodule "The 3DO Company - 3DO"]
 	path = The 3DO Company - 3DO
 	url = https://github.com/libretro-thumbnails/The_3DO_Company_-_3DO.git
+	branch = master
 [submodule "Tiger - Game.com"]
 	path = Tiger - Game.com
 	url = https://github.com/libretro-thumbnails/Tiger_-_Game.com.git
+	branch = master
 [submodule "Tomb Raider"]
 	path = Tomb Raider
 	url = https://github.com/libretro-thumbnails/Tomb_Raider.git
+	branch = master
 [submodule "VTech - CreatiVision"]
 	path = VTech - CreatiVision
 	url = https://github.com/libretro-thumbnails/VTech_-_CreatiVision.git
+	branch = master
 [submodule "VTech - V.Smile"]
 	path = VTech - V.Smile
 	url = https://github.com/libretro-thumbnails/VTech_-_V.Smile.git
+	branch = master
 [submodule "Watara - Supervision"]
 	path = Watara - Supervision
 	url = https://github.com/libretro-thumbnails/Watara_-_Supervision.git
+	branch = master
 [submodule "ChaiLove"]
 	path = ChaiLove
 	url = https://github.com/libretro-thumbnails/ChaiLove.git
+	branch = master
 [submodule "Rick Dangerous"]
 	path = Rick Dangerous
 	url = https://github.com/libretro-thumbnails/Rick_Dangerous.git
+	branch = master
 [submodule "LeapFrog - Leapster Learning Game System"]
 	path = LeapFrog - Leapster Learning Game System
 	url = https://github.com/libretro-thumbnails/LeapFrog_-_Leapster_Learning_Game_System.git
+	branch = master
 [submodule "RPG Maker"]
 	path = RPG Maker
 	url = https://github.com/libretro-thumbnails/RPG_Maker.git
+	branch = master
 [submodule "Nintendo - Nintendo 3DS (DLC)"]
 	path = Nintendo - Nintendo 3DS (DLC)
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS_DLC.git
+	branch = master

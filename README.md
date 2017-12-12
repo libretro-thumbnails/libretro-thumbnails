@@ -17,7 +17,7 @@ To bring in the latest thumbnails across all systems, use:
 
 ```
 git pull
-git submodule update --init
+git submodule update --remote
 ```
 
 You can also bring the latest changes from all submodules down by using:
@@ -25,6 +25,8 @@ You can also bring the latest changes from all submodules down by using:
 ```
 make update
 ```
+
+
 
 ## Usage
 
