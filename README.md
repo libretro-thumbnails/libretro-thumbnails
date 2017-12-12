@@ -41,7 +41,7 @@ make update
     ```
 - The following characters in playlist titles must be replaced with _ in the corresponding thumbnail filename:
     ```
-    &*/:"<>?\|
+    &*/:`<>?\\|"
     ```
 - Images must be `.png` format
 - Images should be no wider than 512px
