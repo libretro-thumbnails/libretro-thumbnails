@@ -62,7 +62,7 @@
 	path = Casio - Loopy
 	url = https://github.com/libretro-thumbnails/Casio_-_Loopy.git
 [submodule "Bomberman Game Clone"]
-	path = Bomberman Game Clone
+	path = Mr Boom
 	url = https://github.com/libretro-thumbnails/Bomberman_Game_Clone.git
 [submodule "Bandai - WonderSwan"]
 	path = Bandai - WonderSwan
