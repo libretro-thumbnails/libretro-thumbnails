@@ -10,18 +10,17 @@
 # The packs directory must be relative from this Makefile.
 PACKSDIR := packs
 
-# Retrieve the latest stable thumbnails.
-all:
+# Download the latest thumbnails.
+update: pull
+	git submodule update --recursive --remote --init
+
+# Retrieve the latest repository updates.
+pull:
 	git pull
-	git submodule update --init
 
 # Tell the user how to install the thumbnails.
 install: all
 	@echo "Place libretro-thumbnails in RetroArch's config/thumbnails folder."
-
-# Bring down the latest unstable thumbnails.
-update: all
-	git submodule update --recursive --remote
 
 # Build thumbnails .zip packs for all systems.
 packs: index packs-index | update
