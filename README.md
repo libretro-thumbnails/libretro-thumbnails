@@ -17,16 +17,14 @@ To bring in the latest thumbnails across all systems, use:
 
 ```
 git pull
-git submodule update --remote
+git submodule update --recursive --remote --init
 ```
 
 You can also bring the latest changes from all submodules down by using:
 
 ```
-make update
+make
 ```
-
-
 
 ## Usage
 
