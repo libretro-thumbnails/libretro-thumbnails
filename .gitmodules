@@ -83,8 +83,8 @@
 	url = https://github.com/libretro-thumbnails/Casio_-_Loopy.git
 	branch = master
 [submodule "Bomberman Game Clone"]
-	path = Bomberman Game Clone
-	url = https://github.com/libretro-thumbnails/Bomberman_Game_Clone.git
+	path = MrBoom
+	url = https://github.com/libretro-thumbnails/MrBoom.git
 	branch = master
 [submodule "Bandai - WonderSwan"]
 	path = Bandai - WonderSwan
