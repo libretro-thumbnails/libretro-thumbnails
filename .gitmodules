@@ -374,3 +374,6 @@
 	path = Nintendo - Nintendo 3DS (DLC)
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS_DLC.git
 	branch = master
+[submodule "MAME"]
+	path = MAME
+	url = https://github.com/libretro-thumbnails/MAME.git
