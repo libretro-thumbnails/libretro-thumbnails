@@ -377,3 +377,8 @@
 [submodule "MAME"]
 	path = MAME
 	url = https://github.com/libretro-thumbnails/MAME.git
+	branch = master
+[submodule "Amstrad - CPC"]
+	path = Amstrad - CPC
+	url = https://github.com/libretro-thumbnails/Amstrad_-_CPC.git
+	branch = master
