@@ -382,3 +382,6 @@
 	path = Amstrad - CPC
 	url = https://github.com/libretro-thumbnails/Amstrad_-_CPC.git
 	branch = master
+[submodule "Mattel - Intellivision"]
+	path = Mattel - Intellivision
+	url = https://github.com/libretro-thumbnails/Mattel_-_Intellivision.git
