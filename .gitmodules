@@ -385,3 +385,6 @@
 [submodule "Mattel - Intellivision"]
 	path = Mattel - Intellivision
 	url = https://github.com/libretro-thumbnails/Mattel_-_Intellivision.git
+[submodule "Flashback"]
+	path = Flashback
+	url = https://github.com/libretro-thumbnails/Flashback.git
