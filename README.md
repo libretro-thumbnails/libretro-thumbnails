@@ -26,6 +26,12 @@ You can also bring the latest changes from all submodules down by using:
 make
 ```
 
+Or by using the script which will maintain shallow clones (depth=1) and checkout master:
+
+```
+sh update_modules.sh
+```
+
 ## Usage
 
 - Thumbnails are installed into RetroArch config's `thumbnails` directory
