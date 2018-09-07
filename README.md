@@ -16,14 +16,8 @@ git clone --recursive --depth=1 http://github.com/libretro-thumbnails/libretro-t
 To bring in the latest thumbnails across all systems, use:
 
 ```
-git pull
-git submodule update --recursive --remote --init
-```
-
-You can also bring the latest changes from all submodules down by using:
-
-```
-make
+git pull --recurse-submodules
+git submodule update --remote --recursive
 ```
 
 Or by using the script which will maintain shallow clones (depth=1) and checkout master:
