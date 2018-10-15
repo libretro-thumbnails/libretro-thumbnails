@@ -6,6 +6,6 @@ do
     echo ----
     cd "$thumbdir"/"$d"
     git checkout master
-    git pull origin master --depth=1
-    git gc --prune=all
+    git pull origin master --depth=20
+    #git gc --prune=all
 done
