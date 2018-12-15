@@ -46,6 +46,6 @@ sh update_modules.sh
   - Images with native width larger than 512px should be scaled down to 512px wide
   - Images with native width of 512px should be added as-is
   - Images with native width 256px and 512px should be scaled down to 256px wide
-  - Images with a native width of 256px and less should be added as-is
+  - Images with native width of 256px or less should be added as-is
 - Substitute promotional flyers are acceptable when no boxart is available for a game
 - Use [libretro-thumbnails-check](https://github.com/RobLoach/libretro-thumbnails-check) to check for missing thumbnails
