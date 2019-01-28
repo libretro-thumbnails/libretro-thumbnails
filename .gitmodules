@@ -488,3 +488,8 @@
 	url = https://github.com/libretro-thumbnails/Flashback.git
 	branch = master
 	ignore = dirty
+[submodule "Thomson - MOTO"]
+	path = Thomson - MOTO
+	url = https://github.com/libretro-thumbnails/Thomson_-_MOTO.git
+	branch = master
+	ignore = dirty
