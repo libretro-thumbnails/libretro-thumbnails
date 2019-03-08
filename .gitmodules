@@ -493,3 +493,8 @@
 	url = https://github.com/libretro-thumbnails/Thomson_-_MOTO.git
 	branch = master
 	ignore = dirty
+[submodule "Cannonball"]
+	path = Cannonball
+	url = https://github.com/libretro-thumbnails/Cannonball.git
+	branch = master
+	ignore = dirty
