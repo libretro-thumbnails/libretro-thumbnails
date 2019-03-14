@@ -498,3 +498,8 @@
 	url = https://github.com/libretro-thumbnails/Cannonball.git
 	branch = master
 	ignore = dirty
+[submodule "Commodore - Amiga"]
+	path = Commodore - Amiga
+	url = https://github.com/libretro-thumbnails/Commodore_-_Amiga.git
+	branch = master
+	ignore = dirty
