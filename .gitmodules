@@ -464,7 +464,7 @@
 	branch = master
 	ignore = dirty
 [submodule "Nintendo - Nintendo 3DS (DLC)"]
-	path = Nintendo - Nintendo 3DS (DLC)
+	path = Nintendo - Nintendo 3DS (Digital)
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS_DLC.git
 	branch = master
 	ignore = dirty
