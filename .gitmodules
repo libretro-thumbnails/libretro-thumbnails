@@ -34,7 +34,7 @@
 	branch = master
 	ignore = dirty
 [submodule "FB Alpha - Arcade Games"]
-	path = FB Alpha - Arcade Games
+	path = FBNeo - Arcade Games
 	url = https://github.com/libretro-thumbnails/FB_Alpha_-_Arcade_Games.git
 	branch = master
 	ignore = dirty
