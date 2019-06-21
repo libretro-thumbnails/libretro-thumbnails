@@ -503,3 +503,7 @@
 	url = https://github.com/libretro-thumbnails/Commodore_-_Amiga.git
 	branch = master
 	ignore = dirty
+[submodule "TIC-80"]
+	path = TIC-80
+	url = git@github.com:libretro-thumbnails/TIC-80.git
+	ignore = dirty
