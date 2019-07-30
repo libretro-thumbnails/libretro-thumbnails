@@ -354,7 +354,7 @@
 	branch = master
 	ignore = dirty
 [submodule "Quake1"]
-	path = Quake1
+	path = Quake
 	url = https://github.com/libretro-thumbnails/Quake1.git
 	branch = master
 	ignore = dirty
