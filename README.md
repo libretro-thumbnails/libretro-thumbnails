@@ -53,12 +53,12 @@ sh update_modules.sh
 To check for files with invalid file names, use the following command....
 
 ``` bash
-find . -name '*[&\*:`áàãăâéèêíìĩóòõôơúùũưýỳđ<>?\\|"*]*'
+find . -name '*[&\*:`<>?\\|"*]*'
 ```
 
 This can be put in a `.travis.yml` file to enable automated testing.
 ``` yaml
 language: bash
 script:
-    - find Named* -name '*[&\*:`áàãăâéèêíìĩóòõôơúùũưýỳđ<>?\\|"*]*' | grep "." && echo "The above are invalid filenames" && return 1 || echo "No invalid files found"
+    - find Named* -name '*[&\*:`<>?\\|"*]*' | grep "." && echo "The above are invalid filenames" && return 1 || echo "No invalid files found"
 ```
