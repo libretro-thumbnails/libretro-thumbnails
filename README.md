@@ -61,4 +61,6 @@ This can be put in a `.travis.yml` file to enable automated testing.
 language: bash
 script:
     - find Named* -name '*[&\*:`<>?\\|"*]*' | grep "." && echo "The above are invalid filenames" && return 1 || echo "No invalid files found"
+notifications:
+  email: false
 ```
