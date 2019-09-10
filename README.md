@@ -64,3 +64,25 @@ script:
 notifications:
   email: false
 ```
+
+## Thumbnail Server
+
+The libretro-thumbnail server provides two functions...
+
+### .index Files
+
+The .index files allow RetroArch to list the files available in the given directory. To build the .index files, run the following command...
+
+```
+make index
+```
+
+### Packs
+
+Thumbnail packs can be generated to create a zip of all thumbnails across each system. To build the thumbnail packs, run the following command...
+
+```
+PACKSDIR=../packs make packs
+```
+
+Change `PACKSDIR` to change which you would like the thumbnail packs to be built.

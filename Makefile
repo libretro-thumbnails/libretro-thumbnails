@@ -8,7 +8,7 @@
 #
 
 # The packs directory must be relative from this Makefile.
-PACKSDIR := packs
+PACKSDIR ?= packs
 
 # Download the latest thumbnails.
 update: pull
