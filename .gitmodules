@@ -508,8 +508,3 @@
 	url = https://github.com/libretro-thumbnails/TIC-80.git
 	branch = master
 	ignore = dirty
-[submodule "Sharp - X68000"]
-	path = Sharp - X68000
-	url = git@github.com:libretro-thumbnails/Sharp_-_X68000.git
-	branch = master
-	ignore = dirty
