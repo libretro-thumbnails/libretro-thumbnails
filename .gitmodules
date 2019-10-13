@@ -513,3 +513,8 @@
 	url = https://github.com/libretro-thumbnails/Sharp_-_X68000.git
 	branch = master
 	ignore = dirty
+[submodule "Quake II"]
+	path = Quake II
+	url = https://github.com/libretro-thumbnails/Quake_II.git
+	branch = master
+	ignore = dirty
