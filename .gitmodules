@@ -518,3 +518,8 @@
 	url = https://github.com/libretro-thumbnails/Quake_II.git
 	branch = master
 	ignore = dirty
+[submodule "Quake III"]
+	path = Quake III
+	url = https://github.com/libretro-thumbnails/Quake_III.git
+	branch = master
+	ignore = dirty
