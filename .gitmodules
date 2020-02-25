@@ -523,3 +523,8 @@
 	url = https://github.com/libretro-thumbnails/Quake_III.git
 	branch = master
 	ignore = dirty
+[submodule "Wolfenstein 3D"]
+	path = Wolfenstein 3D
+	url = https://github.com/libretro-thumbnails/Wolfenstein_3D.git
+	branch = master
+	ignore = dirty
