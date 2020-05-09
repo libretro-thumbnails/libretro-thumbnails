@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 thumbdir=$(pwd)
 for d in */
 do
@@ -7,5 +9,5 @@ do
     cd "$thumbdir"/"$d"
     git checkout master
     git pull origin master --depth=20
-    #git gc --prune=all
+    [[ $1 = "gc" ]] && git gc --prune=all
 done
