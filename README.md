@@ -86,3 +86,10 @@ PACKSDIR=../packs make packs
 ```
 
 Change `PACKSDIR` to change which you would like the thumbnail packs to be built.
+
+## Credits
+
+The art provided has many different sources. Thank you to many of the contributors and sites who have made this possible...
+
+- [Screenshot(s) via MobyGames](https://mobygames.com)
+- [Fandom](https://www.fandom.com)
