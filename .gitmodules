@@ -528,3 +528,8 @@
 	url = https://github.com/libretro-thumbnails/Wolfenstein_3D.git
 	branch = master
 	ignore = dirty
+[submodule "LowRes NX"]
+	path = LowRes NX
+	url = https://github.com/libretro-thumbnails/LowRes_NX.git
+	branch = master
+	ignore = dirty
