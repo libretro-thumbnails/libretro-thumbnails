@@ -640,3 +640,9 @@
 	branch = master
 	ignore = dirty
 	shallow = true
+[submodule "NEC - PC-98"]
+	path = NEC - PC-98
+	url = https://github.com/libretro-thumbnails/NEC_-_PC-98.git
+	branch = master
+	ignore = dirty
+	shallow = true
