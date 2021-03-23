@@ -647,7 +647,7 @@
 	ignore = dirty
 	shallow = true
 [submodule "Sony - PlayStation Minis"]
-	path = NEC - PC-98
+	path = Sony - PlayStation Minis
 	url = https://github.com/libretro-thumbnails/Sony_-_PlayStation_Minis.git
 	branch = master
 	ignore = dirty
