@@ -652,3 +652,9 @@
 	branch = master
 	ignore = dirty
 	shallow = true
+[submodule "Atomiswave"]
+path = Atomiswave
+	url = https://github.com/libretro-thumbnails/Atomiswave.git
+	branch = master
+	ignore = dirty
+	shallow = true
