@@ -1,6 +1,0 @@
-[submodule "Atomiswave"]
-	path = Atomiswave
-	url = https://github.com/Rstation4/libretro-thumbnails.git
-	branch = master
-	ignore = dirty
-	shallow = true
