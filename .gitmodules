@@ -658,3 +658,9 @@ path = Atomiswave
 	branch = master
 	ignore = dirty
 	shallow = true
+[submodule "Sega - Naomi"]
+path = Sega - Naomi
+	url = https://github.com/libretro-thumbnails/Sega_-_Naomi.git
+	branch = master
+	ignore = dirty
+	shallow = true
