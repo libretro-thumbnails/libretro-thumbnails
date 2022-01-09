@@ -40,9 +40,9 @@
 	branch = master
 	ignore = dirty
 	shallow = true
-[submodule "FB Alpha - Arcade Games"]
+[submodule "FBNeo - Arcade Games"]
 	path = FBNeo - Arcade Games
-	url = https://github.com/libretro-thumbnails/FB_Alpha_-_Arcade_Games.git
+	url = https://github.com/libretro-thumbnails/FBNeo_-_Arcade_Games.git
 	branch = master
 	ignore = dirty
 	shallow = true
