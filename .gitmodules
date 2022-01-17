@@ -646,3 +646,8 @@
 	branch = master
 	ignore = dirty
 	shallow = true
+[submodule "WASM-4"]
+	path = WASM-4
+	url = https://github.com/libretro-thumbnails/WASM-4.git
+	branch = master
+	ignore = dirty
