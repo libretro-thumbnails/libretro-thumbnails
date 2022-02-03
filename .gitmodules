@@ -651,3 +651,10 @@
 	url = https://github.com/libretro-thumbnails/WASM-4.git
 	branch = master
 	ignore = dirty
+	shallow = true
+[submodule "Jump 'n Bump"]
+	path = Jump 'n Bump
+	url = https://github.com/libretro-thumbnails/Jump_n_Bump.git
+	branch = master
+	ignore = dirty
+	shallow = true
