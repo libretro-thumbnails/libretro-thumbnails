@@ -658,3 +658,9 @@
 	branch = master
 	ignore = dirty
 	shallow = true
+[submodule "Amstrad - GX4000"]
+	path = Amstrad - GX4000
+	url = https://github.com/libretro-thumbnails/Amstrad_-_GX4000.git
+	branch = master
+	ignore = dirty
+	shallow = true
