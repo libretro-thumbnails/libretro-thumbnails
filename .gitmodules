@@ -358,12 +358,6 @@
 	branch = master
 	ignore = dirty
 	shallow = true
-[submodule "Nintendo - Nintendo DS"]
-	path = Nintendo - Nintendo DS
-	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DS.git
-	branch = master
-	ignore = dirty
-	shallow = true
 [submodule "Nintendo - Nintendo DSi"]
 	path = Nintendo - Nintendo DSi
 	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DSi.git
@@ -667,6 +661,12 @@
 [submodule "Atomiswave"]
 	path = Atomiswave
 	url = https://github.com/libretro-thumbnails/Atomiswave.git
+	branch = master
+	ignore = dirty
+	shallow = true
+[submodule "Nintendo - Nintendo DS"]
+	path = Nintendo - Nintendo DS
+	url = https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DS.git
 	branch = master
 	ignore = dirty
 	shallow = true
