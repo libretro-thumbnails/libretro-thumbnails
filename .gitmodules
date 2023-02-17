@@ -670,3 +670,9 @@
 	branch = master
 	ignore = dirty
 	shallow = true
+[submodule "NEC - PC-8001 - PC-8801"]
+	path = NEC - PC-8001 - PC-8801
+	url = https://github.com/libretro-thumbnails/NEC_-_PC-8001_-_PC-8801.git
+	branch = main
+	ignore = dirty
+	shallow = true
