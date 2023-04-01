@@ -25,6 +25,7 @@ install: all
 # Build thumbnails .zip packs for all systems.
 packs: index packs-index | update
 	git submodule foreach 'git archive HEAD --format zip --prefix="$$name/" -9 --output "../$(PACKSDIR)/$$name.zip"'
+	git submodule foreach 'git ls-files | grep -E ".*\.(png)" > ../$(PACKSDIR)/$$name_tree.txt'
 
 # Clean all the files.
 clean: clean-index clean-packs clean-packs-index
