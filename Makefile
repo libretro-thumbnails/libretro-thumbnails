@@ -13,6 +13,7 @@ PACKSDIR ?= packs
 # Download the latest thumbnails.
 update: pull
 	git submodule update --recursive --remote --init
+	git submodule foreach 'git ls-files | grep -E ".*\.(png)" > ".index"'
 
 # Retrieve the latest repository updates.
 pull:
