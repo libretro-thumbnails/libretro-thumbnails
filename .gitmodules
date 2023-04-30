@@ -676,3 +676,9 @@
 	branch = main
 	ignore = dirty
 	shallow = true
+[submodule "Philips - CD-i"]
+	path = Philips - CD-i
+	url = https://github.com/libretro-thumbnails/Philips_-_CD-i.git
+	branch = main
+	ignore = dirty
+	shallow = true
