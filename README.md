@@ -77,16 +77,6 @@ The .index files allow RetroArch to list the files available in the given direct
 make index
 ```
 
-### Packs
-
-Thumbnail packs can be generated to create a zip of all thumbnails across each system. To build the thumbnail packs, run the following command...
-
-```
-PACKSDIR=../packs make packs
-```
-
-Change `PACKSDIR` to change which you would like the thumbnail packs to be built.
-
 ## Credits
 
 The art provided has many different sources. Thank you to many of the contributors and sites who have made this possible...
