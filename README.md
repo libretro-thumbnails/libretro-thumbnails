@@ -56,15 +56,6 @@ To check for files with invalid file names, use the following command....
 find . -name '*[&\*:`<>?\\|"*]*'
 ```
 
-This can be put in a `.travis.yml` file to enable automated testing.
-``` yaml
-language: bash
-script:
-    - find Named* -name '*[&\*:`<>?\\|"*]*' | grep "." && echo "The above are invalid filenames" && return 1 || echo "No invalid files found"
-notifications:
-  email: false
-```
-
 ## Thumbnail Server
 
 The libretro-thumbnail server provides two functions...
