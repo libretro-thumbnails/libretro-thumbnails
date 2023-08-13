@@ -694,3 +694,9 @@
 	branch = main
 	ignore = dirty
 	shallow = true
+[submodule "Commodore - CD32"]
+	path = Commodore - CD32
+	url = https://github.com/libretro-thumbnails/Commodore_-_CD32.git
+	branch = main
+	ignore = dirty
+	shallow = true
