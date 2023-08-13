@@ -16,11 +16,17 @@ git clone --recursive --depth=1 http://github.com/libretro-thumbnails/libretro-t
 To bring in the latest thumbnails across all systems, use:
 
 ```
-git pull --recurse-submodules
-git submodule update --remote --recursive
+git pull
+git submodule update --recursive --remote --init --force
 ```
 
-Or by using the script which will maintain shallow clones (depth=1) and checkout master:
+If you have [`make`](https://www.gnu.org/software/make/) available, you can run the above by simply running:
+
+```
+make
+```
+
+Alternatively, the script below will maintain shallow clones (depth=1) and checkout master:
 
 ```
 sh update_modules.sh
@@ -58,14 +64,15 @@ find . -name '*[&\*:`<>?\\|"*]*'
 
 ## Thumbnail Server
 
-The libretro-thumbnail server provides two functions...
+The libretro-thumbnail server updates the thumbnails about once every two days on a cronjob. If you don't see updated files, append `?nocaches=CURRENTDATE` to have CloudFlare serve new content.
 
 ### .index Files
 
-The .index files allow RetroArch to list the files available in the given directory. To build the .index files, run the following command...
+The .index files allow RetroArch to list the files available in the given directory. To build the .index files, run...
 
 ```
 make index
+make
 ```
 
 ## Credits
