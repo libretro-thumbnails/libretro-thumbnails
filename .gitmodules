@@ -700,3 +700,9 @@
 	branch = main
 	ignore = dirty
 	shallow = true
+[submodule "Vircon32"]
+	path = Vircon32
+	url = https://github.com/libretro-thumbnails/Vircon32.git
+	branch = main
+	ignore = dirty
+	shallow = true
