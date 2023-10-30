@@ -706,3 +706,9 @@
 	branch = main
 	ignore = dirty
 	shallow = true
+[submodule "Commodore - CDTV"]
+	path = Commodore - CDTV
+	url = https://github.com/libretro-thumbnails/Commodore_-_CDTV.git
+	branch = main
+	ignore = dirty
+	shallow = true
