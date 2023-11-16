@@ -712,3 +712,9 @@
 	branch = main
 	ignore = dirty
 	shallow = true
+[submodule "Sega - Naomi 2"]
+	path = Sega - Naomi 2
+	url = https://github.com/libretro-thumbnails/Sega_-_Naomi_2.git
+	branch = main
+	ignore = dirty
+	shallow = true
