@@ -646,12 +646,6 @@
 	branch = master
 	ignore = dirty
 	shallow = true
-[submodule "Jump 'n Bump"]
-	path = Jump 'n Bump
-	url = https://github.com/libretro-thumbnails/Jump_n_Bump.git
-	branch = master
-	ignore = dirty
-	shallow = true
 [submodule "Amstrad - GX4000"]
 	path = Amstrad - GX4000
 	url = https://github.com/libretro-thumbnails/Amstrad_-_GX4000.git
@@ -716,5 +710,17 @@
 	path = Sega - Naomi 2
 	url = https://github.com/libretro-thumbnails/Sega_-_Naomi_2.git
 	branch = main
+	ignore = dirty
+	shallow = true
+[submodule "Sharp - X1"]
+	path = Sharp - X1
+	url = https://github.com/libretro-thumbnails/Sharp_-_X1.git
+	branch = main
+	ignore = dirty
+	shallow = true
+[submodule "Jump 'n Bump"]
+	path = Jump 'n Bump
+	url = https://github.com/libretro-thumbnails/Jump_n_Bump.git
+	branch = master
 	ignore = dirty
 	shallow = true
