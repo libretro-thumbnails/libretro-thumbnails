@@ -249,7 +249,7 @@
 	url = https://github.com/libretro-thumbnails/Atari_-_ST.git
 	branch = master
 	ignore = dirty
-	shallow = true
+	shallow = trueommodT
 [submodule "Lutro"]
 	path = Lutro
 	url = https://github.com/libretro-thumbnails/Lutro.git
@@ -727,6 +727,18 @@
 [submodule "Jump 'n Bump"]
 	path = Jump 'n Bump
 	url = https://github.com/libretro-thumbnails/Jump_n_Bump.git
+	branch = master
+	ignore = dirty
+	shallow = true
+[submodule "Spectravideo - SVI-318 - SVI-328"]
+	path = Spectravideo - SVI-318 - SVI-328
+	url = https://github.com/WizzardSK/Spectravideo_-_SVI-318_-_SVI-328.git
+	branch = master
+	ignore = dirty
+	shallow = true
+[submodule "Commodore - PET"]
+	path = Commodore - PET
+	url = https://github.com/WizzardSK/Commodore_-_PET.git
 	branch = master
 	ignore = dirty
 	shallow = true
