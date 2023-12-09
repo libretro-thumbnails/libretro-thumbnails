@@ -249,7 +249,7 @@
 	url = https://github.com/libretro-thumbnails/Atari_-_ST.git
 	branch = master
 	ignore = dirty
-	shallow = trueommodT
+	shallow = true
 [submodule "Lutro"]
 	path = Lutro
 	url = https://github.com/libretro-thumbnails/Lutro.git
