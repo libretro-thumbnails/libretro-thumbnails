@@ -724,3 +724,15 @@
 	branch = master
 	ignore = dirty
 	shallow = true
+[submodule "Spectravideo - SVI-318 - SVI-328"]
+	path = Spectravideo - SVI-318 - SVI-328
+	url = https://github.com/libretro-thumbnails/Spectravideo_-_SVI-318_-_SVI-328.git
+	branch = main
+	ignore = dirty
+	shallow = true
+[submodule "Commodore - PET"]
+	path = Commodore - PET
+	url = https://github.com/libretro-thumbnails/Commodore_-_PET.git
+	branch = main
+	ignore = dirty
+	shallow = true
