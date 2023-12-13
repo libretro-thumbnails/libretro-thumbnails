@@ -718,6 +718,12 @@
 	branch = main
 	ignore = dirty
 	shallow = true
+[submodule "Arduboy Inc - Arduboy"]
+	path = Arduboy Inc - Arduboy
+	url = https://github.com/libretro-thumbnails/Arduboy_Inc_-_Arduboy.git
+	branch = main
+	ignore = dirty
+	shallow = true
 [submodule "Jump 'n Bump"]
 	path = Jump 'n Bump
 	url = https://github.com/libretro-thumbnails/Jump_n_Bump.git
