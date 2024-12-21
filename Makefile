@@ -2,21 +2,23 @@
 #
 # Usage:
 #
-# make: Brings down the latest stable thumbnails
-# make update: Bring down the latest unstable thumbnails
+# make: Brings down the latest thumbnails, and updates the index files
 #
 
-# Download the latest thumbnails.
-update: pull
-	git submodule update --recursive --remote --init --force
-	git submodule foreach 'git ls-files | grep -E ".*\.(png)" > ".index"'
+# Download the latest thumbnails, and update the index files.
+update: pull update-submodules indexes
+	@echo "Thumbnail update complete"
 
 # Retrieve the latest repository updates.
 pull:
 	git pull
 
-# Tell the user how to install the thumbnails.
-install: all
+# Update all the submodules to their latest commits upstream.
+update-submodules:
+	git submodule update --recursive --remote --init --force
+
+# There is not install script, so inform the user how to install the thumbs.
+install:
 	@echo "Place libretro-thumbnails in RetroArch's config/thumbnails folder."
 
 # Clean all the files.
@@ -29,3 +31,7 @@ index: clean-index
 # Clean the .index file.
 clean-index:
 	rm -f .index
+
+# Update all the .index files.
+indexes: index
+	git submodule foreach 'git ls-files | grep -E ".*\.(png)" > ".index"'
