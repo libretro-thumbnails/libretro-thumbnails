@@ -76,7 +76,7 @@ After a thumbnail contribution is accepted via a github pull request, the image 
 
 # Contributions
 
-For a step-by-step guide on how any user can contribute new or improved thumbnail images to RetroArch via github.com, see our [detailed guide](https://docs.libretro.com/guides/roms-playlists-thumbnails/#contributing-thumbnails-how-to).  Note you may use [libretro-thumbnails-check](https://github.com/RobLoach/libretro-thumbnails-check) to check for missing thumbnails
+For a step-by-step guide on how any user can contribute new or improved thumbnail images to RetroArch via github.com on the web, see our [detailed guide](https://docs.libretro.com/guides/roms-playlists-thumbnails/#contributing-thumbnails-how-to).  The entire process can be done on the web, you do not need to use or understand any of the technical processes described earlier in this readme.  Note you may use [libretro-thumbnails-check](https://github.com/RobLoach/libretro-thumbnails-check) to check for missing thumbnails
 
 ## Rules for Images & Contributions
 
@@ -91,31 +91,29 @@ For a step-by-step guide on how any user can contribute new or improved thumbnai
 
 ### Image Guidelines
 
-# Resolution
+#### Resolution
   - Images with native width larger than 512px should be scaled down to 512px wide
   - Images with native width of 512px or less should be added as-is
 
-# Screenshot Composition & Aesthetics
-For snaps (in-game screenshots), choose a good clear artful image that shows the art, spirit, or action of the game in normal or ideal gameplay. For examples of well-chosen well-composed in-game screenshots, see the back-of-box images printed on officially published games.
+__Substitutions__. Promotional material is acceptable when no official boxart is available.
 
-In order for the thumbnail repository to contain "archival quality" snaps (in-game screenshots) for each game:
-  - Snaps should ideally represent characteristic art/sprites, environment, and/or action from the game.
-  - Contributors should think of what screenshot a museum curator would pick for a museum exhibit about the game.
-  - Contributors should think of what kind of picture the game's designers and artists would pick for the back of the game's box.
 
-_Examples for thinking about the elements of a good screenshot composition._
+#### Screenshot Composition & Aesthetics
+For snaps (in-game screenshots), choose a good clear artful image that shows the art, spirit, environment, and action of the game in normal or ideal gameplay. For examples of well-chosen well-composed in-game screenshots, see the back-of-box images printed on officially published games and the guidelines below.
 
-  - Racing game:
+The goal is to have a library of archival quality snaps (in-game screenshots) for each game.  Contributors should think about and ask themselves: _What screenshot would a museum director create and pick for a museum exhibit about the game? What kind of screenshot would the game's designers and artists would pick for their work portfolio or on the back of the game's box?_
+
+_Examples of a good and bad screenshot composition._
+
+  - __Racing game:__
     - A good screenshot often will show the vehicle following the road and with visible competitors/co-racers if they exist. A worse screenshot would be crashed off the track with the camera aiming away from the upcoming road.
-  - Fighting game:
+  - __Fighting game__
     - A good snap screenshot will show the character sprites and at least one animation key frame, not a situation when the characters are off-screen or invisible.
-  - Scrolling shooter:
+  - __Scrolling shooter:__
     - Some combination of clear player ship + clear background + enemies + some of the bullet style or explosions.
-  - 3rd person action game
+  - __3rd person action game__
     - A good snap thumbnail will include some balance between the character and the environmental setting or style of the game.  A less ideal snap thumbnail might be mostly filled by a single wall texture with the camera directly facing a bland wall.
 
-__Substitutions__.
-- Promotional material is acceptable when no official boxart is available.
 
 
 # Credits
