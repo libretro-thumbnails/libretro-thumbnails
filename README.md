@@ -4,6 +4,12 @@ Thumbnails for [RetroArch](http://retroarch.com), organized into separate reposi
 
 This readme focusses on use of the libretro github thumbnail __repository__ _not_ on use of the Retroarch app. For user-guide details about how thumbnail files function within RetroArch, the file and subfolder requirements for using thumbnail images, the flexible name matching algorithm that assigns image files to playlisted games, and troubleshooting thumbnails and playlists, see our [documentation](https://docs.libretro.com/guides/roms-playlists-thumbnails/#thumbnails).
 
+#### Contents
+- [Overview of RetroArch Thumbnails](#overview-of-retroarch-thumbnails)
+- [Technical Usage of this Repository](#technical-usage-of-this-repository)
+- [Contributions and Image Guidelines](#contributions)
+- [Credits](#credits)
+
 ### Overview of RetroArch Thumbnails
 
 - Thumbnails are installed into RetroArch config's `thumbnails` directory
@@ -95,6 +101,13 @@ For a step-by-step guide on how any user can contribute new or improved thumbnai
   - Images with native width larger than 512px should be scaled down to 512px wide
   - Images with native width of 512px or less should be added as-is
 
+#### Settings when taking in-game screenshots for thumbnails
+- __Shaders/filters OFF__
+  - Because the thumbnail  max resolution (512px width) is too low to accurately represent scanlines/sub-pixel effects created by CRT shaders (for example), shaders should be turned OFF when working on creating an in-game screenshot for a thumbnail.
+  - See RetroArch menu > Settings > Video > GPU Screenshot ON | OFF to toggle whether a saved screenshot will include slang shader effects.
+- __Color Correction (e.g. GBA) ON__
+  - Color Correction core options (and/or shaders) are acceptable and preferable in cases when the option or shader corrects the visuals to what the original game/designer's intended.  (Just as how a movie box wouldn't display thumbnails that had a clearly wrongly calibrated set of colors for the film.)
+
 __Substitutions__. Promotional material is acceptable when no official boxart is available.
 
 
@@ -106,20 +119,22 @@ __Substitutions__. Promotional material is acceptable when no official boxart is
   - __Quality.__ We want to build a library of archival quality snaps (in-game screenshots) for each game.  Contributors should think about and ask themselves:
     - _What screenshot would a museum director create and pick for a museum exhibit about the game?_
     - _What kind of screenshot would the game's designers and artists pick for their work portfolio or on the back of the game's box?_
+    - _What screenshot connects to fond feelings and memories of the game's particular feel and experience?_
   - __Visual identification while browsing__.
     - A good screenshot should help to quickly and clearly distinguish a game from other similar games, and from other installments within its own series.
-    - A particular screenshot is not a good choice if it can easily be mistaken for the game's sequel, for example. 
+    - A particular screenshot is not a good choice if it can easily be mistaken for the game's sequel, for example.
+  - _"Are interface/HUD elements an obstruction, or a distinct and important part of an in-game snap?"_ Usually the in-game interface (HUD) is a fundamental and carefully designed part of the game and the game's art/aesthetics, and which can also help distinguish similar games. In most cases, you should include the normal gameplay HUD, and not go out of your way to capture a screenshot faded away for a transition.  Though as with other guidelines, it may vary case by case. 
 
 __Table 1. Examples of a good and bad screenshot composition.__
-_These are example and discussions for guidance, not necessarily hard rules._
+_These are example and discussions for guidance. Keep in mind that it is the unique character of each game that should determine what picture is appropriate to represent it._
 
 | __Game Type Example__ | __Good Screenshot Example__ | __Worse Screenshot Example__ |
 | :---: | -- | --| 
 |       Racing game       |    Shows the vehicle following the road, with environmental style visible, and with visible competitors/co-racers if they exist         |  The player vehicle/character is crashed off the track or stuck against a wall, and/or the camera is aiming away from the upcoming road (unless perhaps that screenshot represents the particular spirit of the given game)      |      
-| Fighting game | Clear character sprites with at least one character showing an animation key frame | A situation when one or both characters are off-screen or invisible |
+| Fighting game | Clear character sprites with at least one character showing an animation key frame, in a background that portrays the mood of the game | A situation when one or both characters are off-screen or invisible. A transitional/interface screen that doesn't show fighting. |
 | Scrolling shooter | Some combination of clear player ship + stage background + enemies (and/or a climactic boss) + bullet style or explosions. | An empty screen with few-to-no enemies and no action happening. | 
-| 3rd person action game | Includes a balance between the character and the environmental setting or style of the game |  A picture mostly filled by a single wall texture with the camera directly facing a wall | 
-| RPG / JRPG | Shows a distinct scenic setting and characters, e.g. an iconic area from early scenes |  An image taken up by a textbox or menu that makes it unclear which game, or which game in a series, it is.  A menu screen where the menu design does not help to distinctly identify the game. Any screen that is very similar between different entries in the same series (e.g. some menu screens, or some random-battle scenes) |
+| 3rd person action game | Includes a balance between the character and the environmental setting or style of the game |  A picture mostly filled by a single wall texture where the camera directly facing a wall | 
+| RPG / JRPG | Shows a distinct scenic setting and characters, e.g. an iconic area from early scenes |  An image taken up by a textbox or menu that makes it unclear which game, or which game in a series, it is.  Any screen that is very similar between different entries in the same series (e.g. some menu screens, or some random-battle scenes) |
 
 
 
