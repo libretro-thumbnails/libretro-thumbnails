@@ -13,7 +13,7 @@ This readme focusses on use of the libretro github thumbnail __repository__ _not
   - `Named_Boxarts` are scans of the boxes or covers of games
 - Thumbnails must follow this naming and pathing convention:
     ```
-    thumbnails/Playlist Name/Named Type/Game Name.png
+    thumbnails/Playlist Name/Named_Type/Game Name.png
     ```
 RetroArch can display both [automatic server-provided thumbnails](https://docs.libretro.com/guides/roms-playlists-thumbnails/#thumbnails) and [custom thumbnails set by the user](https://docs.libretro.com/guides/roms-playlists-thumbnails/#custom-thumbnails) 
     
@@ -78,7 +78,7 @@ After a thumbnail contribution is accepted via a github pull request, the image 
 
 For a step-by-step guide on how any user can contribute new or improved thumbnail images to RetroArch via github.com on the web, see our [detailed guide](https://docs.libretro.com/guides/roms-playlists-thumbnails/#contributing-thumbnails-how-to).  The entire process can be done on the web, you do not need to use or understand any of the technical processes described earlier in this readme.  Note you may use [libretro-thumbnails-check](https://github.com/RobLoach/libretro-thumbnails-check) to check for missing thumbnails
 
-## Rules for Images & Contributions
+## Rules for Images
 
 ### File & Naming Guidelines
 
@@ -99,20 +99,27 @@ __Substitutions__. Promotional material is acceptable when no official boxart is
 
 
 #### Screenshot Composition & Aesthetics
-For snaps (in-game screenshots), choose a good clear artful image that shows the art, spirit, environment, and action of the game in normal or ideal gameplay. For examples of well-chosen well-composed in-game screenshots, see the back-of-box images printed on officially published games and the guidelines below.
 
-The goal is to have a library of archival quality snaps (in-game screenshots) for each game.  Contributors should think about and ask themselves: _What screenshot would a museum director create and pick for a museum exhibit about the game? What kind of screenshot would the game's designers and artists would pick for their work portfolio or on the back of the game's box?_
+- For snaps (in-game screenshots), choose a good clear artful image that shows the art, spirit, environment, and action of the game in normal or ideal gameplay.
+- For examples of well-chosen well-composed in-game screenshots, see the back-of-box images printed on officially published games and the guidelines below.
+- __Goals.__
+  - __Quality.__ We want to build a library of archival quality snaps (in-game screenshots) for each game.  Contributors should think about and ask themselves:
+    - _What screenshot would a museum director create and pick for a museum exhibit about the game?_
+    - _What kind of screenshot would the game's designers and artists pick for their work portfolio or on the back of the game's box?_
+  - __Visual identification while browsing__.
+    - A good screenshot should help to quickly and clearly distinguish a game from other similar games, and from other installments within its own series.
+    - A particular screenshot is not a good choice if it can easily be mistaken for the game's sequel, for example. 
 
-_Examples of a good and bad screenshot composition._
+__Table 1. Examples of a good and bad screenshot composition.__
+_These are example and discussions for guidance, not necessarily hard rules._
 
-  - __Racing game:__
-    - A good screenshot often will show the vehicle following the road and with visible competitors/co-racers if they exist. A worse screenshot would be crashed off the track with the camera aiming away from the upcoming road.
-  - __Fighting game__
-    - A good snap screenshot will show the character sprites and at least one animation key frame, not a situation when the characters are off-screen or invisible.
-  - __Scrolling shooter:__
-    - Some combination of clear player ship + clear background + enemies + some of the bullet style or explosions.
-  - __3rd person action game__
-    - A good snap thumbnail will include some balance between the character and the environmental setting or style of the game.  A less ideal snap thumbnail might be mostly filled by a single wall texture with the camera directly facing a bland wall.
+| __Game Type Example__ | __Good Screenshot Example__ | __Worse Screenshot Example__ |
+| :---: | -- | --| 
+|       Racing game       |    Shows the vehicle following the road, with environmental style visible, and with visible competitors/co-racers if they exist         |  The player vehicle/character is crashed off the track or stuck against a wall, and/or the camera is aiming away from the upcoming road (unless perhaps that screenshot represents the particular spirit of the given game)      |      
+| Fighting game | Clear character sprites with at least one character showing an animation key frame | A situation when one or both characters are off-screen or invisible |
+| Scrolling shooter | Some combination of clear player ship + stage background + enemies (and/or a climactic boss) + bullet style or explosions. | An empty screen with few-to-no enemies and no action happening. | 
+| 3rd person action game | Includes a balance between the character and the environmental setting or style of the game |  A picture mostly filled by a single wall texture with the camera directly facing a wall | 
+| RPG / JRPG | Shows a distinct scenic setting and characters, e.g. an iconic area from early scenes |  An image taken up by a textbox or menu that makes it unclear which game, or which game in a series, it is.  A menu screen where the menu design does not help to distinctly identify the game. Any screen that is very similar between different entries in the same series (e.g. some menu screens, or some random-battle scenes) |
 
 
 
