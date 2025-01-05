@@ -77,7 +77,7 @@ make
 
 The libretro-thumbnail server receives updates from the repository about once every two days on a cronjob. If you don't see updated files, append `?nocaches=CURRENTDATE` to have CloudFlare serve new content.
 
-After a thumbnail contribution is accepted via a github pull request, the image will not be visible in RetroArch until the periodic export from the github repository to the thumbnail server occurs. Depending on maintenance, the delay may potentially be 1-2 weeks.
+For contributors: After a thumbnail contribution is accepted via a github pull request, the image will not be visible in RetroArch until the periodic export from the github repository to the thumbnail server occurs. Depending on maintenance, the delay may potentially be 1-2 weeks. (Users may also need to activate a [thumbnails update in RetroArch](https://docs.libretro.com/guides/roms-playlists-thumbnails/#thumbnails) if a contribution replaced a previous image.)
 
 
 # Contributions
