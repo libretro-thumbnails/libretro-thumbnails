@@ -95,6 +95,13 @@ For a step-by-step guide on how any user can contribute new or improved thumbnai
 
 ## Image Guidelines
 
+### Goals
+
+- __Quality.__ The goal is to have a library of archival quality snaps (in-game screenshots) that represents the look and spirit of each game, for the benefit and pleasure of all users.  
+- __Visual identification while browsing__.
+    - A good screenshot should help to quickly distinguish a game from other similar games, and from other installments within its own series.
+    - A particular screenshot is not a good choice if it can easily be mistaken for the game's sequel or prequel, for example.
+
 ### Resolution
   - Images with native width larger than 512px should be scaled down to 512px wide
   - Images with native width of 512px or less should be added as-is
@@ -122,16 +129,12 @@ __Substitutions__. Promotional material are acceptable when no official boxart i
 
 - For snaps (in-game screenshots), choose a good clear artful image that shows the art, spirit, environment, and action of the game in normal or ideal gameplay.
 - For examples of well-chosen well-composed in-game screenshots, see the back-of-box images printed on officially published games and the guidelines below.
-- __Goals.__
-  - __Quality.__ We want to build a library of archival quality snaps (in-game screenshots) for each game.  Contributors should think about and ask themselves:
+- Contributors should think about and ask themselves:
     - _What screenshot would a museum director create and pick for a museum exhibit about the game?_
-    - _What kind of screenshot would the game's designers and artists pick for their work portfolio or on the back of the game's box?_
+    - _What kind of screenshot would the game's designers and artists pick for their work portfolio or if they were choosing pictures for the back of the box?_
     - _What screenshot connects to fond feelings and memories of the game's particular feel and experience?_
-  - __Visual identification while browsing__.
-    - A good screenshot should help to quickly distinguish a game from other similar games, and from other installments within its own series.
-    - A particular screenshot is not a good choice if it can easily be mistaken for the game's sequel or prequel, for example.
 
-### Example Patterns of Good vs Worse Screenshot Composition
+#### Example Patterns of Good vs Worse Screenshot Composition
 Below are _example qualities_ intended to provide some guidance about good/bad thumbnail snaps. The "Worse" examples describe some common patterns of non-ideal screenshots. These are not necessarily hard rules: the overall principle is that the character of each individual game should determine what picture is appropriate to represent it.
 
 | __Game Genre/Format__ | __Good Screenshot Example__ | __Worse Screenshot Example(s)__ |
