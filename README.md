@@ -4,7 +4,7 @@ Thumbnails for [RetroArch](http://retroarch.com), organized into separate reposi
 
 This readme focusses on use of the libretro github thumbnail __repository__ _not_ on use of the Retroarch app. For user-guide details about how thumbnail files function within RetroArch, the file and subfolder requirements for using thumbnail images, the flexible name matching algorithm that assigns image files to playlisted games, and troubleshooting thumbnails and playlists, see our [documentation](https://docs.libretro.com/guides/roms-playlists-thumbnails/#thumbnails).
 
-#### Contents
+#### Contents (abbreviated)
 - [Overview of RetroArch Thumbnails](#overview-of-retroarch-thumbnails)
 - [Technical Usage of this Repository](#technical-usage-and-maintenance-of-this-repository)
 - [Contributions and Image Guidelines](#contributions)
@@ -83,6 +83,13 @@ For contributors: After a thumbnail contribution is accepted via a github pull r
 # Contributions
 
 For a step-by-step guide on how any user can contribute new or improved thumbnail images to RetroArch via github.com on the web, see our [detailed guide](https://docs.libretro.com/guides/roms-playlists-thumbnails/#contributing-thumbnails-how-to).  The entire process can be done on the web, you do not need to use or understand any of the technical processes described earlier in this readme.  Note you may use [libretro-thumbnails-check](https://github.com/RobLoach/libretro-thumbnails-check) to check for missing thumbnails, but be aware that list may be deprecated and unmaintained.
+
+Contributions must follow all guidelines below.
+
+- [File & Naming](#file-&-naming-guidelines)
+- [Image Guidelines](#image-guidelines)
+- [Rules for Settings](#rules-for-settings)
+- [Screenshot Composition](#screenshot-composition-&-aesthetics)
 
 ## File & Naming Guidelines
 
