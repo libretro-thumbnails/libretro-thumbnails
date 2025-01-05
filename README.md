@@ -131,7 +131,7 @@ __Substitutions__. Promotional material are acceptable when no official boxart i
     - A good screenshot should help to quickly distinguish a game from other similar games, and from other installments within its own series.
     - A particular screenshot is not a good choice if it can easily be mistaken for the game's sequel or prequel, for example.
 
-## Example Patterns of Good vs Worse Screenshot Composition
+### Example Patterns of Good vs Worse Screenshot Composition
 Below are _example qualities_ intended to provide some guidance about good/bad thumbnail snaps. The "Worse" examples describe some common patterns of non-ideal screenshots. These are not necessarily hard rules: the overall principle is that the character of each individual game should determine what picture is appropriate to represent it.
 
 | __Game Genre/Format__ | __Good Screenshot Example__ | __Worse Screenshot Example(s)__ |
