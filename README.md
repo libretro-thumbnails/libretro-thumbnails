@@ -4,7 +4,7 @@ Thumbnails for [RetroArch](http://retroarch.com), organized into separate reposi
 
 This readme focusses on use of the libretro github thumbnail __repository__ _not_ on use of the Retroarch app. For user-guide details about how thumbnail files function within RetroArch, the file and subfolder requirements for using thumbnail images, the flexible name matching algorithm that assigns image files to playlisted games, and troubleshooting thumbnails and playlists, see our [documentation](https://docs.libretro.com/guides/roms-playlists-thumbnails/#thumbnails).
 
-#### Contents (abbreviated)
+#### Contents
 - [Overview of RetroArch Thumbnails](#overview-of-retroarch-thumbnails)
 - [Technical Usage of this Repository](#technical-usage-and-maintenance-of-this-repository)
 - [Contributions and Image Guidelines](#contributions)
