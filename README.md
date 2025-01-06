@@ -121,7 +121,7 @@ When taking in-game screenshots for thumbnails, ensure that your various setting
   - See RetroArch menu > Settings > Video > GPU Screenshot ON | OFF to toggle whether a saved screenshot will include slang shader effects.
 - __Bilinear Filtering OFF__ (unless native)
   - Bilinear filtering should be off, _unless_ native to the original game/console.
-  - Warning: many image apps on PC (including defailt Microsoft Photos, and some web browsers) may misleadingly apply bilinear or other filtering temporarily while you view the screenshot file, even though the file itself is raw pixels. To accurately review your screenshot image file contents, ensure that your app's settings for filtering are turned OFF.
+  - Warning: many image apps on PC (including default Microsoft Photos, and some web browsers) may misleadingly apply bilinear or other filtering temporarily while you view the screenshot file, even though the file itself is raw pixels. To accurately review your screenshot image file contents, ensure that your app's settings for filtering are turned OFF.
 - __Color Correction (e.g. GBA and GBC) ON__ (where appropriate)
   - Just as a movie box wouldn't contain thumbnails that showed a wrongly calibrated set of colors for the film, GBA/GBC thumbnail and title screen snaps should have color correction ON where appropriate.
   - Color Correction core options are acceptable and preferable in cases when the option corrects the visuals to the original game's/designers' intention. Usually this situation only applies to GBA & GBC or cases when the original hardware/display caused the developers to encode colors in a way that pre-compensated for the original display's output and which would be wrong if viewed without appropriate filtering. 
