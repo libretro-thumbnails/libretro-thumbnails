@@ -683,7 +683,7 @@
 	ignore = dirty
 	shallow = true
 [submodule "Atari - 8-bit"]
-	path = Atari - 8-bit
+	path = Atari - 8-bit Family
 	url = https://github.com/libretro-thumbnails/Atari_-_8-bit.git
 	branch = main
 	ignore = dirty
