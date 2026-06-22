@@ -13,10 +13,11 @@ This readme focusses on use of the libretro github thumbnail __repository__ _not
 ### Overview of RetroArch Thumbnails
 
 - Thumbnails are installed into RetroArch config's `thumbnails` directory
-- There are three types of thumbnails:
+- There are four types of thumbnails:
+  - `Named_Boxarts` are scans of the boxes or covers of games
+  - `Named_Logos` are the logos for the games (not present for all systems)
   - `Named_Snaps` are in-game snapshots, aka gameplay screenshots
   - `Named_Titles` are images of the game's introductory title screen
-  - `Named_Boxarts` are scans of the boxes or covers of games
 - Thumbnails must follow this naming and pathing convention:
     ```
     thumbnails/Playlist Name/Named_Type/Game Name.png
